@@ -64,7 +64,7 @@ The table below presents commercial SaaS notification products sorted in **desce
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** [![Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)  
   **Self-hosted website monitoring tool like Uptime Robot**, MIT licensed. **92,147+ stars**. **Docker/Node.js** deployment 🚀. Monitoring for HTTP(s), TCP, Ping, DNS, and more. **Notification integrations** with 90+ services via Apprise. Status pages and multi-language support. **The most popular open-source uptime monitor & status notifier** 📈.
@@ -110,7 +110,7 @@ Contributions are warmly welcomed! Follow these steps to submit new centralized 
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Star Count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
